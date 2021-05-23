@@ -37,3 +37,5 @@ const html = `
  };
  
  window.addEventListener('load', post);
+
+ //「post」→「posts」に戻す
